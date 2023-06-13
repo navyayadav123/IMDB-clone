@@ -16,5 +16,3 @@ i have used basic skill set for this project such as
   2. css 3
   3. javascript
 
-to fetch movie details i have used api from "the movie database" (tmdb)
--> https://developers.themoviedb.org/3/getting-started/introduction
